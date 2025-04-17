@@ -20,11 +20,11 @@ public class MergeTwoJsonObject {
 
         JSONObject obj1 = new JSONObject();
         obj1.put("Id",123);
-        obj1.put("Name","deepak");
+        obj1.put("Name","simer");
         obj1.put("Age",23);
 
         JSONObject obj2 = new JSONObject();
-        obj2.put("City","imphal");
+        obj2.put("City","harsimer");
         obj2.put("isStudent",true);
 
         System.out.println("Before merging: ");
