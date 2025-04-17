@@ -14,7 +14,7 @@ public class CreateJson {
 
         JSONObject student = new JSONObject();
 
-        student.put("name", "Deepak");
+        student.put("name", "Simer");
         student.put("age", 23);
         student.put("subject", subject);
 
