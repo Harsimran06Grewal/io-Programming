@@ -11,11 +11,11 @@ public class ListObjectTojson {
 
         ArrayList<User> listofuser= new ArrayList<>();
 
-        listofuser.add(new User(101,"Deepak","demo@gmail.com",23));
-        listofuser.add(new User(102,"Ritick","ritick@gmail.com",35));
-        listofuser.add(new User(103,"Rohit","rohit@gmail.com",20));
-        listofuser.add(new User(103,"Mohit","mohit@gmail.com",45));
-        listofuser.add(new User(103,"Raj","raj@gmail.com",27));
+        listofuser.add(new User(101,"Simer","simer@gmail.com",23));
+        listofuser.add(new User(102,"Shagan","shagan@gmail.com",35));
+        listofuser.add(new User(103,"Cemon","cemon@gmail.com",20));
+        listofuser.add(new User(103,"Nardeep","deep@gmail.com",45));
+        listofuser.add(new User(103,"Prabh","prabh@gmail.com",27));
 
         ObjectMapper objectMapper = new ObjectMapper();
 
